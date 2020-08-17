@@ -1,6 +1,6 @@
 <template>
   <header>
-    <TheNavigation />
+      <TheNavagation />
   </header>
 </template>
 

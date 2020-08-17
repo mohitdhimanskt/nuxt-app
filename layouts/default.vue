@@ -2,8 +2,8 @@
   <div>
     <TheHeader />
     <main>
-      
-      <Nuxt />
+      <img src="~/assets/logo.svg" />
+      <Nuxt/>
     </main>
   </div>
 </template>
