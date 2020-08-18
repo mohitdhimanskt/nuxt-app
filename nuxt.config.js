@@ -34,6 +34,7 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
+    '~/plugins/components'
   ],
   /*
   ** Auto import components
@@ -58,7 +59,9 @@ export default {
       }
     ]
   ],
-
+  router: {
+    middleware: 'languageDetection'
+  },
 
   /*
   ** Build configuration

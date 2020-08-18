@@ -9,6 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "marked": "^1.1.1",
     "node-sass": "^4.14.1",
     "nuxt": "^2.14.0",
     "sass-loader": "^9.0.3",
