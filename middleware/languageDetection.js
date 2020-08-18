@@ -1,4 +1,3 @@
-
 export default function ({ app, isServer, route, store, isDev }) {
     let version = route.query._storyblok || isDev ? 'draft' : 'published'
     let language = route.params.language || 'en'
