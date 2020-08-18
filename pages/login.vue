@@ -65,7 +65,7 @@ input {
   cursor: not-allowed;
 }
 .button {
-  background: var(--primary-color);
+  background-color: blue;
   padding: 0.75rem 1.5rem;
   outline: none;
   border-radius: 0.5rem;
